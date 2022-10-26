@@ -1,4 +1,4 @@
-### Olá, eu sou o Ronielton Santos 😄
+### Hello, I'm Ronielton 😄
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronieltonsantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronieltonsantos&layout=compact&langs_count=7&theme=dark"/>
